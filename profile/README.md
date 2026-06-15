@@ -4,31 +4,33 @@ Research group in cardiovascular biomechanics and computational hemodynamics at 
 
 Our research focuses on cardiovascular modeling, simulation, uncertainty quantification, medical digital twins, and computational methods for cardiovascular disease assessment.
 
-## Open-source projects
+## STARFiSh
 
-### STARFiSh
+STARFiSh is an open-source ecosystem for one-dimensional cardiovascular blood flow modelling and simulation.
 
-A one-dimensional blood flow simulation framework for vascular network modeling, uncertainty quantification, and sensitivity analysis.
+The project aims to provide researchers, students, and clinicians with tools for vascular network modelling, simulation, uncertainty quantification, sensitivity analysis, and cardiovascular digital twins.
 
-### Vascular1DFlow
+### Components
 
-Tools for one-dimensional hemodynamic simulations in systemic vascular networks.
+#### Vascular1DFlow (V1DF)
 
-### VascularNetworkCreator
+The core simulation framework for one-dimensional blood flow modelling in arterial networks.
 
-Utilities for creating and editing vascular network descriptions used in blood flow simulations.
+#### VascularNetworkCreator (VNC)
+
+Tools for creating, editing, and managing vascular network descriptions used by the simulation framework.
 
 ## Documentation
 
-The STARFiSh project website, tutorials, and documentation are hosted at:
+Project website, tutorials, and documentation:
 
 https://www.ntnu.no/starfish
 
 ## Contact
 
-**Division of Biomechanics**  
-Department of Structural Engineering  
-Norwegian University of Science and Technology (NTNU)  
+**Division of Biomechanics**
+Department of Structural Engineering
+Norwegian University of Science and Technology (NTNU)
 Trondheim, Norway
 
 Organization owner: Leif Rune Hellevik
