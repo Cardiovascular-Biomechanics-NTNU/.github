@@ -2,35 +2,40 @@
 
 Research group in cardiovascular biomechanics and computational hemodynamics at the Norwegian University of Science and Technology (NTNU), Trondheim, Norway.
 
-Our research focuses on cardiovascular modeling, simulation, uncertainty quantification, medical digital twins, and computational methods for cardiovascular disease assessment.
+Our research focuses on:
 
-## STARFiSh
+- Cardiovascular modelling and simulation
+- Computational haemodynamics
+- Uncertainty quantification and sensitivity analysis
+- Patient-specific cardiovascular modelling
+- Scientific software for cardiovascular research
 
-STARFiSh is an open-source ecosystem for one-dimensional cardiovascular blood flow modelling and simulation.
+## Open-source software
 
-The project aims to provide researchers, students, and clinicians with tools for vascular network modelling, simulation, uncertainty quantification, sensitivity analysis, and cardiovascular digital twins.
+This organisation hosts research software developed and maintained by the Cardiovascular Biomechanics group at NTNU.
 
-### Components
+Current projects include:
 
-#### Vascular1DFlow (V1DF)
+### STARFiSh
 
-The core simulation framework for one-dimensional blood flow modelling in arterial networks.
+Open-source ecosystem for one-dimensional cardiovascular blood flow modelling and simulation.
 
-#### VascularNetworkCreator (VNC)
+Repository:
+https://github.com/Cardiovascular-Biomechanics-NTNU/STARFiSh
 
-Tools for creating, editing, and managing vascular network descriptions used by the simulation framework.
+### Additional projects
+
+Further repositories related to uncertainty quantification, vascular network modelling, cardiovascular digital twins, and computational biomechanics will be added over time.
 
 ## Documentation
-
-Project website, tutorials, and documentation:
 
 https://www.ntnu.no/starfish
 
 ## Contact
 
-**Division of Biomechanics**
-Department of Structural Engineering
-Norwegian University of Science and Technology (NTNU)
+Cardiovascular Biomechanics Group  
+Department of Structural Engineering  
+Norwegian University of Science and Technology (NTNU)  
 Trondheim, Norway
 
-Organization owner: Leif Rune Hellevik
+Organisation owner: Leif Rune Hellevik
