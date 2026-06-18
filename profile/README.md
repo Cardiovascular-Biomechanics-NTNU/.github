@@ -31,6 +31,8 @@ Further repositories related to uncertainty quantification, vascular network mod
 
 https://www.ntnu.no/starfish
 
+*Note: Documentation is currently based on the original STARFiSh v0.4 (Python 2.7) release and may not reflect later Python 3 developments.*
+
 ## Contact
 
 Cardiovascular Biomechanics Group  
